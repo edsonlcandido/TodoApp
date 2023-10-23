@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/todoapp/TodoApi/TodoApi.csproj": {}
+    "/workspaces/TodoApp/TodoApi/TodoApi.csproj": {}
   },
   "projects": {
-    "/workspaces/todoapp/TodoApi/TodoApi.csproj": {
+    "/workspaces/TodoApp/TodoApi/TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/todoapp/TodoApi/TodoApi.csproj",
+        "projectUniqueName": "/workspaces/TodoApp/TodoApi/TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "/workspaces/todoapp/TodoApi/TodoApi.csproj",
+        "projectPath": "/workspaces/TodoApp/TodoApi/TodoApi.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/todoapp/TodoApi/obj/",
+        "outputPath": "/workspaces/TodoApp/TodoApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
