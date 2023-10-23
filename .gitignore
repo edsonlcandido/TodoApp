@@ -145,4 +145,7 @@
 *.zip
 obj/
 bin/
-*.db
+*/**.db
+**/*.db
+**/*.db*
+TodoApi/todos.db
